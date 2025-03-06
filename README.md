@@ -17,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisankoroglu&show_icons=true&locale=en" alt="alisankoroglu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alisankoroglu&" alt="alisankoroglu" /></p>
+
+![snake gif](https://github.com/alisankoroglu/alisankoroglu/blob/output/github-snake.svg)
