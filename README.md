@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Alişan Köroğlu</h1>
 <h3 align="center">Biomedical Engineer interested in Artificial Intelligence</h3>
 
-- 🌱 I’m currently learning **Deep Learning and Image Processing**
+- 🔭 I’m currently working on **Automated assessment of pelvic radiographs using deep learning**
+
+- 🌱 I’m currently learning **Deep Learning, Image Processing and Computer Vision**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alişan-köroğlu-5872b4128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alişan köroğlu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alişan köroğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alişan köroğlu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
